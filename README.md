@@ -2,7 +2,7 @@
 
 I have been playing with ![sxhkd](https://github.com/baskerville/sxhkd) for a while and I decided to just change **ALL** my keyboard shortcuts to it.
 
-My config can be found ![here](https://gitlab.com/RaitaroH/Random-Code/blob/master/dot/sxhkdrc). Take a look.
+My config can be found ![here](https://github.com/RaitaroH/Random-Code/blob/master/dot/sxhkdrc). Take a look.
 
 ## Prerequisits
 
